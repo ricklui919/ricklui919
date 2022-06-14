@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricklui919
-- 👀 I’m interested in phython,c++,linux ec.
+- 👀 I’m interested in go,python,JS,vue,c++,linux ec.
 - 🌱 I’m currently learning networkpackage monitor
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
